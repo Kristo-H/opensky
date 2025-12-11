@@ -12,29 +12,47 @@ Global air traffic generates large volumes of real-time data that can be used to
 ---
 
 ## Guide to the contents of the repository
+
 **All datasets**
 
 **data/**
 
 ├── **altitude_diff_full_filtered.csv**
+
 ├── **altitude_diff_full.csv**
+
 ├── **filtered_final_data.csv** - Cleaned dataset
+
 ├── **opensky_states_snapshot.csv** - Original dataset
+
 ├── **velocity_filtered.csv** 
+
 ├── **velocity.csv**
+
 ├── **vertical_rate.csv**
 
 
+
 **images/**
+
 ├── **exploration/** - Additional figures produced during analysis
+
 ├── **poster/** - Only figures used in the final poster
 
+
 **Code scripts for the project**
+
 **src/**
+
 ├── **worldmap/** - Helper files for map visualizations in Goal 1
+
 ├── **G1_data_preparation.py** - Goal 1
+
 ├── **G2_clustering.py** - Goal 2
+
 ├── **G3_prediction.py** - Goal 3
+
+
 
 **README.md**
 
