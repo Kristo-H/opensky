@@ -29,8 +29,7 @@ Global air traffic generates large volumes of real-time data that can be used to
 
 ├── **velocity.csv**
 
-├── **vertical_rate.csv**__
-
+├── **vertical_rate.csv**  
 
 
 
@@ -38,7 +37,7 @@ Global air traffic generates large volumes of real-time data that can be used to
 
 ├── **exploration/** - Additional figures produced during analysis
 
-├── **poster/** - Only figures used in the final poster
+├── **poster/** - Only figures used in the final poster  
 
 
 
@@ -52,8 +51,7 @@ Global air traffic generates large volumes of real-time data that can be used to
 
 ├── **G2_clustering.py** - Goal 2
 
-├── **G3_prediction.py** - Goal 3
-
+├── **G3_prediction.py** - Goal 3  
 
 
 **README.md**
