@@ -14,49 +14,50 @@ Global air traffic generates large volumes of real-time data that can be used to
 ## Guide to the contents of the repository
 
 
-```
 **All datasets**
 
-**data/**
+```
+data/
 
-├── **altitude_diff_full_filtered.csv**
+├── altitude_diff_full_filtered.csv
 
-├── **altitude_diff_full.csv**
+├── altitude_diff_full.csv
 
-├── **filtered_final_data.csv** - Cleaned dataset
+├── filtered_final_data.csv - Cleaned dataset
 
-├── **opensky_states_snapshot.csv** - Original dataset
+├── opensky_states_snapshot.csv - Original dataset
 
-├── **velocity_filtered.csv** 
+├── velocity_filtered.csv** 
 
-├── **velocity.csv**
+├── velocity.csv
 
-├── **vertical_rate.csv**  <br>
+├── vertical_rate.csv
+```
 
 
+```
+images/
 
-**images/**
+├── exploration/ - Additional figures produced during analysis
 
-├── **exploration/** - Additional figures produced during analysis
-
-├── **poster/** - Only figures used in the final poster  
-
+├── poster/ - Only figures used in the final poster  
+```
 
 
 **Code scripts for the project**
+```
+src/
 
-**src/**
+├── worldmap/ - Helper files for map visualizations in Goal 1
 
-├── **worldmap/** - Helper files for map visualizations in Goal 1
+├── G1_data_preparation.py - Goal 1
 
-├── **G1_data_preparation.py** - Goal 1
+├── G2_clustering.py - Goal 2
 
-├── **G2_clustering.py** - Goal 2
-
-├── **G3_prediction.py** - Goal 3  
+├── G3_prediction.py - Goal 3  
 
 
-**README.md**
+README.md
 ```
 
 ---
