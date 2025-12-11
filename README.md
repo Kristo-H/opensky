@@ -27,7 +27,7 @@ data/
 
 ├── opensky_states_snapshot.csv - Original dataset
 
-├── velocity_filtered.csv** 
+├── velocity_filtered.csv
 
 ├── velocity.csv
 
