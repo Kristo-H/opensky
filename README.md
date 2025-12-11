@@ -35,7 +35,7 @@ data/
 ```
 
 
-Figures
+**Figures**
 ```
 images/
 
